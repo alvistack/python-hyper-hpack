@@ -1,0 +1,4 @@
+python3-hpack: copyright-without-copyright-notice
+python3-hpack: initial-upload-closes-no-bugs
+python3-hpack: no-manual-page
+python3-hpack: zero-byte-file-in-doc-directory
