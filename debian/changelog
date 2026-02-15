@@ -1,0 +1,5 @@
+python-hpack (100:4.1.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python-hyper/hpack/releases/tag/v4.1.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 23 Jan 2025 11:28:38 +0800

@@ -1,0 +1,5 @@
+python-hpack source: file-without-copyright-information
+python-hpack source: no-debian-changes
+python-hpack source: source-contains-prebuilt-windows-binary
+python-hpack source: source-is-missing
+python-hpack source: source-package-encodes-python-version
